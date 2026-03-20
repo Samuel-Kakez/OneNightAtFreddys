@@ -1,32 +1,39 @@
-# OneNightAtFreddys
+# One Night at Freddy's
 
 A small FNAF fangame made in Unity in under 24 hours as a personal project.
 
 You play as a night security guard trying to survive until 6 AM. Watch the cameras, close the doors, manage your power, and try not to panic.
 
-# Screenshots
+## Screenshots
 
-![bonnie](images/bonnie.png)
-![camera](images/camera.png)
+![Bonnie](images/bonnie.png)
 
-# Controls
+![Camera](images/camera.png)
 
-Mouse left/right : Look around the office
-Mouse bottom edge : Pull up the camera monitor
-Mouse top edge : Close the monitor
-Click : Toggle doors, lights, and switch cameras
+## Controls
 
-# Built With
+| Input | Action |
+|---|---|
+| Mouse left/right edge | Look around the office |
+| Mouse bottom edge | Pull up the camera monitor |
+| Mouse top edge | Close the monitor |
+| Click | Toggle doors, lights, and switch cameras |
 
-Unity 6.3 URP
-Made in under 24 hours
-A lot of jump scares during testing
+## Built With
 
-# Credits
-Five Nights at Freddy's is created by Scott Cawthon. This is a fan-made game and is not affiliated with or endorsed by Scott Cawthon. No copyright infringement is intended.
+- **Unity 6.3** (URP)
+- Made in under 24 hours
+- A lot of jump scares during testing
 
-# Assets Used
+## Credits
 
-Freddy, Bonnie, Spring Bonnie, Endo 3D Models : OrangeSauceu https://sketchfab.com/orangesauceu
-Map : skylajade69 https://sketchfab.com/skylajade69
-All assets used are under a CC Attribution license.
+**Five Nights at Freddy's** is created by **Scott Cawthon**. This is a fan-made game and is not affiliated with or endorsed by Scott Cawthon. No copyright infringement is intended.
+
+## Assets Used
+
+| Asset | Author | Link |
+|---|---|---|
+| Freddy, Bonnie, Spring Bonnie, Endo 3D Models | OrangeSauceu | [Sketchfab](https://sketchfab.com/orangesauceu) |
+| Map | skylajade69 | [Sketchfab](https://sketchfab.com/skylajade69) |
+
+All assets used are under a **CC Attribution** license.
