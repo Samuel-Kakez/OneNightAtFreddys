@@ -26,8 +26,6 @@ You play as a night security guard trying to survive until 6 AM. Watch the camer
 ## Built With
 
 - **Unity 6.3** (URP)
-- Made in under 24 hours
-- A lot of jump scares during testing
 
 ## Credits
 
